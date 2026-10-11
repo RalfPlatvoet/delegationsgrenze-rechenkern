@@ -1,0 +1,49 @@
+# Ein Feld ist vor der Freigabe zu setzen: `doi`, nach der Freigabe bei Zenodo.
+# Die Lizenz ist am 11.10.2026 entschieden: MIT.
+cff-version: 1.2.0
+message: >-
+  Wer eine Rechnung dieses Kerns nachvollzieht, zitiert bitte das Working Paper
+  und zusaetzlich diesen Kern.
+title: "Delegationsgrenze: der Rechenkern"
+abstract: >-
+  Geschlossen rechnender Kern zum Working Paper "Die Delegationsgrenze".
+  Entscheidungskette mit zwei Fehlerrichtungen je Stelle unter bindendem
+  Handlungsfenster, Verifikationsschwellen bei nur vermuteter Guete, und Lernen
+  dieser Vermutung unter zensiertem Rueckkanal. Keine Simulation, keine
+  Oberflaeche. Jedes Ergebnis steht unter den Annahmen des Kapitels 5 des Papiers.
+type: software
+authors:
+  - family-names: Platvoet
+    given-names: Ralf
+    email: ralf.platvoet@platvoet.org
+    affiliation: "Platvoet Performance Intelligence (PPI), Remscheid"
+    orcid: "https://orcid.org/0009-0004-9230-0808"
+version: 0.1.0
+date-released: "2026-10-11"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX   # nach der Freigabe eintragen
+keywords:
+  - delegation
+  - real authority
+  - decision chain
+  - error architecture
+  - censored feedback
+  - selective labels
+  - self-confirming equilibrium
+  - identification
+references:
+  - type: report
+    title: >-
+      Die Delegationsgrenze. Maschinelle Bewertung, reale Autoritaet und die
+      Architektur betrieblicher Entscheidungsketten. Eine modelltheoretische
+      Untersuchung mit rechenbarem Modell
+    authors:
+      - family-names: Platvoet
+        given-names: Ralf
+        orcid: "https://orcid.org/0009-0004-9230-0808"
+    institution:
+      name: "Platvoet Performance Intelligence (PPI)"
+    number: "PPI Working Paper 09/2026"
+    year: 2026
+    month: 10
+    license: CC-BY-4.0
