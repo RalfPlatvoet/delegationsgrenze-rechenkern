@@ -1,4 +1,3 @@
-# Ein Feld ist vor der Freigabe zu setzen: `doi`, nach der Freigabe bei Zenodo.
 # Die Lizenz ist am 11.10.2026 entschieden: MIT.
 cff-version: 1.2.0
 message: >-
@@ -21,7 +20,7 @@ authors:
 version: 0.1.0
 date-released: "2026-10-11"
 license: MIT
-# doi: 10.5281/zenodo.XXXXXXX   # nach der Freigabe eintragen
+doi: 10.5281/zenodo.23336889
 keywords:
   - delegation
   - real authority
